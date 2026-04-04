@@ -78,13 +78,11 @@ Client-server chat system built from scratch, supporting simultaneous connection
 
 ---
 
-## Background
+## Fact (maybe fun lol)
 
 Before software, I spent years training to play football competitively.
 That didn't pan out — which is probably why I ended up building systems instead of playing in them.
 
-One internship worth mentioning: at **Jone Précision** (summer 2024), I worked on industrial machine control software (WinDev/WLangage), collaborated with the cybersecurity team on internal server audits, and managed an IT fleet migration from Windows 10 to 11.
-It's where I learned that software running on factory floors doesn't get to fail gracefully.
 
 ---
 
