@@ -1,9 +1,70 @@
-# Hey yo, Edouard here! 🤙
-📍 Based in Paris, France<br>🎂 22 years old<br>🎓 Bachelor's student at Pantheon-Sorbonne University, passionate about cutting-edge tech and the fast-moving world of AI 🚀<br><br>💬 Currently building a Java GroupChat<br>🛠️ Developing an AI-driven StarterKit: custom scoreboard creation + targeted prompt generator (Roadmaps, CI/CD prompts, idea boosters...)<br><br>🤝 Open to collaborate on this AI toolkit<br>🧠 Looking for guidance in prompt engineering & token management<br><br>🌱 Learning key AI frameworks like TensorFlow<br><br>❓ Ask me about: tech ideas, Java basics, or anything AI-related — I love exploring new concepts<br>🎭 Fun fact: I wouldn’t be writing this if my football career had actually taken off seven years ago 😄
+# Édouard Joggerst
 
+**Recherche une alternance à partir de septembre 2026 · 1 semaine entreprise / 1 semaine Dauphine PSL**
 
-## 🌍 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jxg.edouard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edouard-joggerst) 
+Paris, France · [LinkedIn](https://linkedin.com/in/edouard-joggerst) · joggerst.edouard@gmail.com
+
+---
+
+## About
+
+I'm a developer with a background split between applied mathematics, information systems, and hands-on software engineering.
+Currently finishing my degree at Sorbonne, joining **Licence MIAGE at Dauphine PSL** in September 2026 (work-study: 1 week company / 1 week school).
+
+I'm drawn to projects that sit at the intersection of data, backend systems, and security — things that have to actually work, not just demo well.
+
+**Languages:** French (native) · English (C1) · German (B2) · Spanish (B2)
+
+---
+
+## Projects
+
+### 🔍 [Ransomboard](https://github.com/jxgedouard/ransomboard) — Ransomware Threat Intelligence Dashboard
+`Python` `Flask` `Vue.js` `SQLite` `Docker` `pytest`
+
+Full-stack threat intelligence platform tracking ransomware group activity from open-source feeds (ransomwatch).
+- Automated data collection and parsing pipeline with incremental update logic
+- REST API (Flask) connected to an interactive Vue.js dashboard
+- Containerized with Docker Compose · Unit tested with pytest (collection logic + API endpoints)
+
+---
+
+### 💬 [Distributed Chat System](https://github.com/jxgedouard/distributed-chat-system) — Multi-client real-time messaging
+`Java` `Sockets` `Multithreading`
+
+Client-server chat system built from scratch, supporting simultaneous connections with thread-safe broadcast.
+- Thread pool architecture with custom synchronization
+- Custom communication protocol design
+
+---
+
+## Stack
+
+    Languages     Java · Python · JavaScript · PHP · HTML/CSS
+    Frontend      Vue.js
+    Backend       Flask
+    Data          pandas · NumPy · Matplotlib
+    Storage       SQLite · MySQL
+    Infra         Docker · Git
+
+---
+
+## Background
+
+Before software, I spent years training to play football competitively.
+That didn't pan out — which is probably why I ended up building systems instead of playing in them.
+
+One internship worth mentioning: at **Jone Précision** (summer 2024), I worked on industrial machine control software (WinDev/WLangage), collaborated with the cybersecurity team on internal server audits, and managed an IT fleet migration from Windows 10 to 11.
+It's where I learned that software running on factory floors doesn't get to fail gracefully.
+
+---
+
+## What I'm looking for
+
+An **alternance starting September 2026** — 1 week on-site / 1 week at Dauphine PSL.
+Interested in: backend development, data engineering, IS architecture, cybersecurity.
+Open to sectors where the systems have real stakes.
+
 
 ## 🧰 Toolbox & Technologies
 
