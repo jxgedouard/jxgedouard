@@ -1,15 +1,13 @@
 # Édouard Joggerst
 
-**Recherche une alternance à partir de septembre 2026 · 1 semaine entreprise / 1 semaine Dauphine PSL**
-
-Paris, France · [LinkedIn](https://linkedin.com/in/edouard-joggerst) · joggerst.edouard@gmail.com
+Paris, France · [LinkedIn](https://linkedin.com/in/edouard-joggerst)
 
 ---
 
 ## About
 
 I'm a developer with a background split between applied mathematics, information systems, and hands-on software engineering.
-Currently finishing my degree at Sorbonne, joining **Licence MIAGE at Dauphine PSL** in September 2026 (work-study: 1 week company / 1 week school).
+Currently finishing my **Licence MIAGE Alternance at Dauphine PSL** (work-study: 1 week company / 1 week school).
 
 I'm drawn to projects that sit at the intersection of data, backend systems, and security — things that have to actually work, not just demo well.
 
