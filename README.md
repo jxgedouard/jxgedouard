@@ -85,9 +85,3 @@ That didn't pan out — which is probably why I ended up building systems instea
 
 
 ---
-
-## What I'm looking for
-
-An **alternance starting September 2026** — 1 week on-site / 1 week at Dauphine PSL.
-Interested in: backend development, data engineering, IS architecture, cybersecurity.
-Open to sectors where the systems have real stakes.
