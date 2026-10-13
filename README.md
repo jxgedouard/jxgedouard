@@ -14,7 +14,7 @@ Web remote for Apple TV, LG webOS and Spotify. The Apple TV protocol was recover
 `Node.js` `React` `Reverse engineering`
 
 **[Distributed Chat System](https://github.com/jxgedouard/distributed-chat-system)**
-Real-time multi-client chat over TCP sockets, written in Java. One thread per client, thread-safe broadcast, channels, private messages (`@user`) and message history replayed to new connections. JavaFX client in progress.
+Real-time multi-client chat over TCP sockets, written in Java. One thread per client, thread-safe broadcast, channels, private messages and message history replayed to new connections. JavaFX client in progress.
 `Java` `Sockets` `Multithreading`
 
 **[Ransomboard](https://github.com/jxgedouard/ransomboard)**
@@ -27,10 +27,10 @@ Desktop task manager with authentication, macOS notifications and FR/EN support,
 
 ## Stack
 
-**Languages** Python · Java · JavaScript · PHP · SQL
-**Web** Flask · Vue.js · React · Node.js · HTML/CSS
-**Data** SQLite · MySQL · NumPy · pandas · Matplotlib
-**Tooling** Docker · Git · Maven · pytest
+- **Languages:** Python · Java · JavaScript · PHP · SQL
+- **Web:** Flask · Vue.js · React · Node.js · HTML/CSS
+- **Data:** SQLite · MySQL · NumPy · pandas · Matplotlib
+- **Tooling:** Docker · Git · Maven · pytest
 
 ## Elsewhere
 
