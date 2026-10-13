@@ -1,85 +1,39 @@
 # Édouard Joggerst
 
-Paris, France · [LinkedIn](https://linkedin.com/in/edouard-joggerst)
+Software engineering student in Paris. I like backend systems, data and security, especially the parts where you have to take something apart to understand it.
 
----
+```text
+now      →  remote-me: a web remote for Apple TV and LG TVs, built by reverse-engineering iOS
+studying →  Licence MIAGE (work-study), Université Paris Dauphine – PSL
+```
 
-## About
+## Selected work
 
-I'm a developer with a background split between applied mathematics, information systems, and hands-on software engineering.
-Currently finishing my **Licence MIAGE Alternance at Dauphine PSL** (work-study: 1 week company / 1 week school).
+**[remote-me](https://github.com/jxgedouard/remote-me)**
+Web remote for Apple TV, LG webOS and Spotify. The Apple TV protocol was recovered by analysing the remote built into iOS (Ghidra, REA), then verified on a real device. Includes a from-scratch Companion client (pairing, encryption, OPACK).
+`Node.js` `React` `Reverse engineering`
 
-I'm drawn to projects that sit at the intersection of data, backend systems, and security — things that have to actually work, not just demo well.
-
-**Languages:** French (native) · English (C1) · German (B2) · Spanish (B2)
-
----
-
-## Projects
-
-### 🔍 [Ransomboard](https://github.com/jxgedouard/ransomboard) — Ransomware Threat Intelligence Dashboard
-`Python` `Flask` `Vue.js` `SQLite` `Docker` `pytest`
-
-Full-stack threat intelligence platform tracking ransomware group activity from open-source feeds (ransomwatch).
-- Automated data collection and parsing pipeline with incremental update logic
-- REST API (Flask) connected to an interactive Vue.js dashboard
-- Containerized with Docker Compose · Unit tested with pytest (collection logic + API endpoints)
-
----
-
-### 💬 [Distributed Chat System](https://github.com/jxgedouard/distributed-chat-system) — Multi-client real-time messaging
+**[Distributed Chat System](https://github.com/jxgedouard/distributed-chat-system)**
+Real-time multi-client chat over TCP sockets, written in Java. One thread per client, thread-safe broadcast, channels, private messages (`@user`) and message history replayed to new connections. JavaFX client in progress.
 `Java` `Sockets` `Multithreading`
 
-Client-server chat system built from scratch, supporting simultaneous connections with thread-safe broadcast.
-- Thread pool architecture with custom synchronization
-- Custom communication protocol design
+**[Ransomboard](https://github.com/jxgedouard/ransomboard)**
+Threat intelligence dashboard tracking ransomware group activity from open-source feeds. Incremental collection pipeline, Flask REST API, Vue.js interface, tested with pytest and shipped with Docker Compose.
+`Python` `Flask` `Vue.js` `SQLite` `Docker`
 
----
+**[Ambre](https://github.com/jxgedouard/ambre)**
+Desktop task manager with authentication, macOS notifications and FR/EN support, packaged as a native `.dmg`.
+`Java` `JavaFX` `Maven`
 
-## 🧰 Toolbox & Technologies
+## Stack
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+**Languages** Python · Java · JavaScript · PHP · SQL
+**Web** Flask · Vue.js · React · Node.js · HTML/CSS
+**Data** SQLite · MySQL · NumPy · pandas · Matplotlib
+**Tooling** Docker · Git · Maven · pytest
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+## Elsewhere
 
-### 🖥️ UI & Desktop Applications
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+[LinkedIn](https://linkedin.com/in/edouard-joggerst) · French (native) · English (C1) · German (B2) · Spanish (B2)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 📊 Data & Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🎨 Design & Media
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-### 🛠 DevOps & Hosting
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
----
-
-## Fact (maybe fun lol)
-
-Before software, I spent years training to play football competitively.
-That didn't pan out — which is probably why I ended up building systems instead of playing in them.
-
-
----
+Before software, I spent years training to play football competitively. It didn't pan out, so I build systems instead of playing in them.
